@@ -1,9 +1,9 @@
 {
-  "location": null,
   "generate_from_json": null,
-  "generate": null,
-  "lang": "corn",
   "url": "https://github.com/jakestanger/tree-sitter-corn",
   "semver": false,
-  "parser_version": "464654742cbfd3a3de560aba120998f1d5dfa844"
+  "parser_version": "464654742cbfd3a3de560aba120998f1d5dfa844",
+  "location": null,
+  "lang": "corn",
+  "generate": null
 }
