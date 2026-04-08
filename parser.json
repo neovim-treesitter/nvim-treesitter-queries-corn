@@ -1,6 +1,6 @@
 {
-  "url": "https://github.com/jakestanger/tree-sitter-corn",
-  "semver": false,
   "parser_version": "464654742cbfd3a3de560aba120998f1d5dfa844",
-  "lang": "corn"
+  "lang": "corn",
+  "url": "https://github.com/jakestanger/tree-sitter-corn",
+  "semver": false
 }
